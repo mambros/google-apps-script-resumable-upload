@@ -1,0 +1,18 @@
+.toast {
+  text-align: center;
+  border-radius: 6px;
+  padding: 16px;
+  font-weight: 500;
+}
+
+.redtext {
+  color: #ff0000;
+}
+
+.greentext {
+  color: #00cc00;
+}
+
+.fixedHeight {
+  height: 150px;
+}
